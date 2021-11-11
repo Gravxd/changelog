@@ -1,0 +1,4 @@
+- Added a poppy to the pilot ped for remembrance day!
+- Changed the loading screen music
+- Added ejection seats to the F22-Redux
+- Patched an issue with buggy sea levels near Cayo Perico
