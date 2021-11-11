@@ -1,4 +1,3 @@
-- Pilot ped now has a poppy
-- Changed the loading screen music
-- Added ejection seats to the F22-Redux
-- Patched buggy sea levels near Cayo Perico
+- Added new custom deferral cards upon joining
+- B777-300ER + B787-9 handling has now been changed. [Darcie]
+it should fly much like the A330-300. 
